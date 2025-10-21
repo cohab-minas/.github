@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Documentação
+    url: https://github.com/cohab-minas
+    about: Consulte os repositórios e documentação da organização
+  - name: 💬 Discussões
+    url: https://github.com/orgs/cohab-minas/discussions
+    about: Participe de discussões com a comunidade
